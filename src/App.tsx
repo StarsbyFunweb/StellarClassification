@@ -90,7 +90,7 @@ export default function App() {
       >
         <div>
           <h1 className="text-[10px] lg:text-[14px] font-black text-white tracking-widest uppercase opacity-90">
-            SASTRO:STELLAR SPECTRAL CLASSIFICATION <span style={{ color: starColorHex }} className="transition-colors duration-500">CLASSIFICATION</span>
+            SASTRO:STELLAR SPECTRAL <span style={{ color: starColorHex }} className="transition-colors duration-500">CLASSIFICATION</span>
           </h1>
           <p className="text-xs lg:text-sm text-slate-400 hidden sm:block font-mono mt-1 tracking-wider">EXPLORE STELLAR PROPERTIES // MISSION CONTROL</p>
         </div>
